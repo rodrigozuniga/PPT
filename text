@@ -1,0 +1,12 @@
+git diff master branch1 file1 file2
+git diff HEAD@{1}
+git log -1 -p <filename>
+git log -help
+git log --help
+git checkout a58e31e8ddd0462d6083500577dfe6045eb05799
+git checkout master (to revert the checkout)
+git show a58e31e8ddd0462d6083500577dfe6045eb05799
+git config --global user.email "rodrigozuniga@gmail.com"
+git add secondfile && git commit -m 
+
+
